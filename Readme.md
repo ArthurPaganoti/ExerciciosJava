@@ -24,6 +24,8 @@
    • Cinza: 8
    • Branco: 9
 
+==========================================================================================
+
 
 2) 
    Do exemplo acima: marrom-verde deve retornar 15 marrom-verde-violeta também deve
